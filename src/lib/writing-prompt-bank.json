@@ -1,0 +1,530 @@
+[
+  {
+    "title_en": "Can freedom and safety coexist?",
+    "title_zh": "自由和安全能共存吗？",
+    "category": "contradiction",
+    "emotion": "tension",
+    "depth": 2,
+    "tags": ["freedom", "safety"],
+    "follow_ups": [
+      { "en": "Where in life did you pick one over the other?", "zh": "你在生活里什么时候选过其中一个？" }
+    ],
+    "related_topics": ["risk", "belonging"]
+  },
+  {
+    "title_en": "Does honesty make you weaker or stronger?",
+    "title_zh": "诚实让你更脆弱，还是更强？",
+    "category": "contradiction",
+    "emotion": "vulnerability",
+    "depth": 2,
+    "tags": ["honesty", "trust"],
+    "follow_ups": [
+      { "en": "Tell about one truth that cost you something.", "zh": "说一件「说真话让你付出代价」的事。" }
+    ],
+    "related_topics": ["friendship", "work"]
+  },
+  {
+    "title_en": "Can two people fully understand each other?",
+    "title_zh": "两个人能完全理解彼此吗？",
+    "category": "contradiction",
+    "emotion": "longing",
+    "depth": 3,
+    "tags": ["empathy", "relationships"],
+    "follow_ups": [
+      { "en": "Who understands you best — and what's still missing?", "zh": "谁最懂你？还有什么没被懂到？" }
+    ],
+    "related_topics": ["loneliness", "love"]
+  },
+  {
+    "title_en": "Do happiness and success need the same schedule?",
+    "title_zh": "快乐和成功一定要抢同一张时间表吗？",
+    "category": "contradiction",
+    "emotion": "curiosity",
+    "depth": 2,
+    "tags": ["happiness", "success"],
+    "follow_ups": [
+      { "en": "When were you happy without achieving anything?", "zh": "什么时候你很开心，却和「成就」无关？" }
+    ],
+    "related_topics": ["career", "rest"]
+  },
+  {
+    "title_en": "Is rest lazy — or necessary?",
+    "title_zh": "休息是懒，还是必须？",
+    "category": "contradiction",
+    "emotion": "irony",
+    "depth": 2,
+    "tags": ["rest", "productivity"],
+    "follow_ups": [
+      { "en": "When did you last stop without a reason?", "zh": "你上次「没理由地停下来」是什么时候？" }
+    ],
+    "related_topics": ["burnout", "sleep"]
+  },
+  {
+    "title_en": "Can you love someone and still wish they were different?",
+    "title_zh": "你能爱一个人，又希望 Ta 有点不一样吗？",
+    "category": "contradiction",
+    "emotion": "love",
+    "depth": 3,
+    "tags": ["love", "acceptance"],
+    "follow_ups": [
+      { "en": "Who comes to mind first?", "zh": "你第一个想到谁？" }
+    ],
+    "related_topics": ["family", "partnership"]
+  },
+  {
+    "title_en": "What if all lies disappeared tomorrow?",
+    "title_zh": "如果明天起世上没有谎言？",
+    "category": "hypothetical_world",
+    "emotion": "wonder",
+    "depth": 2,
+    "tags": ["truth", "society"],
+    "follow_ups": [
+      { "en": "Would the world be kinder or crueler?", "zh": "世界会更温柔，还是更残酷？" }
+    ],
+    "related_topics": ["communication", "morality"]
+  },
+  {
+    "title_en": "What if people stopped aging at 30?",
+    "title_zh": "如果人在 30 岁停止变老？",
+    "category": "hypothetical_world",
+    "emotion": "wonder",
+    "depth": 3,
+    "tags": ["time", "mortality"],
+    "follow_ups": [
+      { "en": "What would you stop putting off?", "zh": "你还会拖延什么？" }
+    ],
+    "related_topics": ["ambition", "legacy"]
+  },
+  {
+    "title_en": "What if we could share dreams like songs?",
+    "title_zh": "如果梦可以像歌单一样分享？",
+    "category": "hypothetical_world",
+    "emotion": "vulnerability",
+    "depth": 2,
+    "tags": ["dreams", "privacy"],
+    "follow_ups": [
+      { "en": "What would you hide?", "zh": "你会藏起什么？" }
+    ],
+    "related_topics": ["intimacy", "sleep"]
+  },
+  {
+    "title_en": "Would you delete one memory — if it were safe?",
+    "title_zh": "若能安全删除一段记忆，你会删吗？",
+    "category": "hypothetical_world",
+    "emotion": "nostalgia",
+    "depth": 2,
+    "tags": ["memory", "regret"],
+    "follow_ups": [
+      { "en": "What kind of memory — sweet, awkward, or both?", "zh": "什么样的记忆：甜的、尬的，还是都有？" }
+    ],
+    "related_topics": ["identity", "healing"]
+  },
+  {
+    "title_en": "What if the internet went off for a year?",
+    "title_zh": "如果互联网断一整年？",
+    "category": "hypothetical_world",
+    "emotion": "curiosity",
+    "depth": 2,
+    "tags": ["internet", "habits"],
+    "follow_ups": [
+      { "en": "What would you miss first? What would return?", "zh": "最先想念什么？什么会回到你生活里？" }
+    ],
+    "related_topics": ["attention", "community"]
+  },
+  {
+    "title_en": "If AI understood you better than your best friend, would friendships feel lighter or lonelier?",
+    "title_zh": "若 AI 比挚友更懂你，友情会更轻松还是更孤独？",
+    "category": "hypothetical_world",
+    "emotion": "anxiety",
+    "depth": 3,
+    "tags": ["AI", "friendship"],
+    "follow_ups": [
+      { "en": "What do humans still do better?", "zh": "人还比机器强在哪？" }
+    ],
+    "related_topics": ["loneliness", "technology"]
+  },
+  {
+    "title_en": "When did you first feel like an adult?",
+    "title_zh": "你第一次觉得自己「像大人」是什么时候？",
+    "category": "personal_reflection",
+    "emotion": "nostalgia",
+    "depth": 2,
+    "tags": ["growing up"],
+    "follow_ups": [
+      { "en": "Was it a moment others saw too?", "zh": "别人也看出来了吗？" }
+    ],
+    "related_topics": ["family", "independence"]
+  },
+  {
+    "title_en": "What's one sentence you've never said out loud?",
+    "title_zh": "有没有一句话，你一直没说出口？",
+    "category": "personal_reflection",
+    "emotion": "longing",
+    "depth": 3,
+    "tags": ["unsaid", "courage"],
+    "follow_ups": [
+      { "en": "What stopped you — fear, timing, or kindness?", "zh": "是什么拦住了你：害怕、时机，还是善意？" }
+    ],
+    "related_topics": ["love", "closure"]
+  },
+  {
+    "title_en": "When were you last simply happy?",
+    "title_zh": "你上次「单纯的开心」是什么时候？",
+    "category": "personal_reflection",
+    "emotion": "hope",
+    "depth": 1,
+    "tags": ["happiness", "presence"],
+    "follow_ups": [
+      { "en": "What did that day sound and look like?", "zh": "那天听起来、看起来什么样？" }
+    ],
+    "related_topics": ["gratitude", "friendship"]
+  },
+  {
+    "title_en": "If you could keep only one memory, which one?",
+    "title_zh": "如果只能留一段记忆，你留哪一段？",
+    "category": "personal_reflection",
+    "emotion": "love",
+    "depth": 2,
+    "tags": ["memory", "meaning"],
+    "follow_ups": [
+      { "en": "Why that one?", "zh": "为什么是它？" }
+    ],
+    "related_topics": ["grief", "time"]
+  },
+  {
+    "title_en": "What do people misunderstand about you?",
+    "title_zh": "别人容易误会你什么？",
+    "category": "personal_reflection",
+    "emotion": "anxiety",
+    "depth": 2,
+    "tags": ["identity", "boundaries"],
+    "follow_ups": [
+      { "en": "Is correcting them worth the energy?", "zh": "解释清楚值得花力气吗？" }
+    ],
+    "related_topics": ["work", "social life"]
+  },
+  {
+    "title_en": "Who are you becoming when no one grades you?",
+    "title_zh": "没人打分的时候，你在变成什么样的人？",
+    "category": "personal_reflection",
+    "emotion": "curiosity",
+    "depth": 3,
+    "tags": ["growth", "values"],
+    "follow_ups": [
+      { "en": "What habit is training that person?", "zh": "哪个习惯在塑造 Ta？" }
+    ],
+    "related_topics": ["habits", "integrity"]
+  },
+  {
+    "title_en": "Stability or passion — which leans for the next five years?",
+    "title_zh": "接下来五年，你更倾向稳定还是热爱？",
+    "category": "value_conflict",
+    "emotion": "tension",
+    "depth": 2,
+    "tags": ["stability", "passion"],
+    "follow_ups": [
+      { "en": "Has your answer changed since you were younger?", "zh": "答案和年轻时比变了吗？" }
+    ],
+    "related_topics": ["career", "risk"]
+  },
+  {
+    "title_en": "Is kindness a skill or a choice?",
+    "title_zh": "善良是练出来的，还是一次次选出来的？",
+    "category": "value_conflict",
+    "emotion": "wonder",
+    "depth": 2,
+    "tags": ["kindness", "character"],
+    "follow_ups": [
+      { "en": "When has kindness felt expensive?", "zh": "什么时候善良很贵？" }
+    ],
+    "related_topics": ["anger", "community"]
+  },
+  {
+    "title_en": "Fit in — or stay your shape?",
+    "title_zh": "融入环境，还是保留自己的形状？",
+    "category": "value_conflict",
+    "emotion": "loneliness",
+    "depth": 2,
+    "tags": ["belonging", "authenticity"],
+    "follow_ups": [
+      { "en": "Where have you paid a price for either?", "zh": "你为哪一边付过代价？" }
+    ],
+    "related_topics": ["work", "culture"]
+  },
+  {
+    "title_en": "In love: heat — or slow warmth?",
+    "title_zh": "爱情里，你要热烈，还是细水长流的安全感？",
+    "category": "value_conflict",
+    "emotion": "love",
+    "depth": 2,
+    "tags": ["love", "security"],
+    "follow_ups": [
+      { "en": "What did you want at 20? What about now?", "zh": "二十岁时要什么？现在呢？" }
+    ],
+    "related_topics": ["dating", "long-term"]
+  },
+  {
+    "title_en": "Walk away from good-but-wrong — or stay and fix it?",
+    "title_zh": "离开「好但不对」的东西，还是留下修补？",
+    "category": "value_conflict",
+    "emotion": "tension",
+    "depth": 3,
+    "tags": ["courage", "commitment"],
+    "follow_ups": [
+      { "en": "A fork where you still wonder.", "zh": "说一个你至今还在想的岔路口。" }
+    ],
+    "related_topics": ["relationships", "work"]
+  },
+  {
+    "title_en": "If being 'good' shrinks you, is it still good?",
+    "title_zh": "若「做好人」让你变小，还算好吗？",
+    "category": "value_conflict",
+    "emotion": "anger",
+    "depth": 3,
+    "tags": ["morality", "self"],
+    "follow_ups": [
+      { "en": "Where's the line between generous and erased?", "zh": "慷慨和被抹掉，界线在哪？" }
+    ],
+    "related_topics": ["people-pleasing", "self-respect"]
+  },
+  {
+    "title_en": "Why are we so good at performing ourselves?",
+    "title_zh": "为什么人这么擅长「演自己」？",
+    "category": "social_observation",
+    "emotion": "irony",
+    "depth": 2,
+    "tags": ["performance", "identity"],
+    "follow_ups": [
+      { "en": "Where do you perform most — online, work, or home?", "zh": "你在哪演得最多：线上、工作，还是家里？" }
+    ],
+    "related_topics": ["social media", "authenticity"]
+  },
+  {
+    "title_en": "Why is the mind louder at night?",
+    "title_zh": "为什么夜里脑子更吵？",
+    "category": "social_observation",
+    "emotion": "anxiety",
+    "depth": 2,
+    "tags": ["night", "overthinking"],
+    "follow_ups": [
+      { "en": "What topic visits you after midnight?", "zh": "半夜最常来找你的是什么念头？" }
+    ],
+    "related_topics": ["sleep", "stress"]
+  },
+  {
+    "title_en": "Do feeds connect us — or keep us alone?",
+    "title_zh": "信息流是在连接人，还是让人一直一个人？",
+    "category": "social_observation",
+    "emotion": "loneliness",
+    "depth": 2,
+    "tags": ["social media", "attention"],
+    "follow_ups": [
+      { "en": "When did you last feel seen — online vs in a room?", "zh": "上次「被看见」是在网上，还是在真人面前？" }
+    ],
+    "related_topics": ["belonging", "mental health"]
+  },
+  {
+    "title_en": "Why open the same chat again and again?",
+    "title_zh": "为什么总反复点开同一个聊天框？",
+    "category": "social_observation",
+    "emotion": "longing",
+    "depth": 1,
+    "tags": ["habits", "waiting"],
+    "follow_ups": [
+      { "en": "Hope, anxiety, or boredom?", "zh": "是希望、焦虑，还是无聊？" }
+    ],
+    "related_topics": ["dating", "friendship"]
+  },
+  {
+    "title_en": "Why does 'busy' sound like a personality?",
+    "title_zh": "为什么「忙」听起来像一种人设？",
+    "category": "social_observation",
+    "emotion": "irony",
+    "depth": 2,
+    "tags": ["busyness", "culture"],
+    "follow_ups": [
+      { "en": "Who benefits from your hurry?", "zh": "谁从你的「赶」里受益？" }
+    ],
+    "related_topics": ["work", "identity"]
+  },
+  {
+    "title_en": "Why vent to strangers but not ask family for help?",
+    "title_zh": "为什么对陌生人吐槽容易，向亲人求助却难？",
+    "category": "social_observation",
+    "emotion": "vulnerability",
+    "depth": 2,
+    "tags": ["help", "shame"],
+    "follow_ups": [
+      { "en": "What does asking for help feel like in your body?", "zh": "「求助」在你身体里是什么感觉？" }
+    ],
+    "related_topics": ["family", "therapy"]
+  },
+  {
+    "title_en": "If you knew life's ending tone — not details — would small moments still matter?",
+    "title_zh": "若你早知道人生结局的「调子」（不是细节），小事还重要吗？",
+    "category": "philosophy",
+    "emotion": "wonder",
+    "depth": 3,
+    "tags": ["meaning", "fate"],
+    "follow_ups": [
+      { "en": "Bigger swings or smaller joys?", "zh": "你会追大起大落，还是珍惜小确幸？" }
+    ],
+    "related_topics": ["choice", "religion"]
+  },
+  {
+    "title_en": "Is a life without pain still full?",
+    "title_zh": "没有痛苦的人生还算完整吗？",
+    "category": "philosophy",
+    "emotion": "curiosity",
+    "depth": 3,
+    "tags": ["suffering", "happiness"],
+    "follow_ups": [
+      { "en": "Any pain that changed you for the better?", "zh": "有没有哪种痛反而把你变好了？" }
+    ],
+    "related_topics": ["growth", "grief"]
+  },
+  {
+    "title_en": "Do we choose our next thought?",
+    "title_zh": "下一个念头，是我们选的吗？",
+    "category": "philosophy",
+    "emotion": "wonder",
+    "depth": 3,
+    "tags": ["free will", "mind"],
+    "follow_ups": [
+      { "en": "When did you last surprise yourself?", "zh": "你上次被自己吓一跳是什么时候？" }
+    ],
+    "related_topics": ["psychology", "habits"]
+  },
+  {
+    "title_en": "If 'real' is what we agree on, what happens when groups stop overlapping?",
+    "title_zh": "若「真实」靠共识，圈子不重叠时真相会怎样？",
+    "category": "philosophy",
+    "emotion": "tension",
+    "depth": 3,
+    "tags": ["truth", "society"],
+    "follow_ups": [
+      { "en": "Where do you feel sure about what's real?", "zh": "你在哪件事上对「什么是真的」最有把握？" }
+    ],
+    "related_topics": ["politics", "science"]
+  },
+  {
+    "title_en": "Why do we miss pain — once it's far away?",
+    "title_zh": "痛走远了，人为什么还会想念？",
+    "category": "philosophy",
+    "emotion": "nostalgia",
+    "depth": 2,
+    "tags": ["memory", "pain"],
+    "follow_ups": [
+      { "en": "Something you swore you'd never miss?", "zh": "有没有你发誓不会怀念、后来却怀念的？" }
+    ],
+    "related_topics": ["grief", "growth"]
+  },
+  {
+    "title_en": "Live one week twice — what would you change the second time?",
+    "title_zh": "同一周活两遍，第二遍你会改什么？",
+    "category": "personal_reflection",
+    "emotion": "regret",
+    "depth": 1,
+    "tags": ["time", "redo"],
+    "follow_ups": [
+      { "en": "More truth — or more silence?", "zh": "更多真话，还是更多沉默？" }
+    ],
+    "related_topics": ["closure", "courage"]
+  },
+  {
+    "title_en": "Will we sacrifice today for a future we won't see?",
+    "title_zh": "人会为看不见的未来牺牲现在的舒服吗？",
+    "category": "social_observation",
+    "emotion": "curiosity",
+    "depth": 2,
+    "tags": ["future", "morality"],
+    "follow_ups": [
+      { "en": "What have you already given up for later?", "zh": "你已经为「以后」放弃过什么？" }
+    ],
+    "related_topics": ["environment", "generations"]
+  },
+  {
+    "title_en": "Parallel life — what's the first check that you're still you?",
+    "title_zh": "平行人生里，你第一件事查什么来确认「还是我自己」？",
+    "category": "hypothetical_world",
+    "emotion": "wonder",
+    "depth": 2,
+    "tags": ["identity", "self"],
+    "follow_ups": [
+      { "en": "Memory, relationships, or habits?", "zh": "靠记忆、关系，还是习惯？" }
+    ],
+    "related_topics": ["philosophy", "choice"]
+  },
+  {
+    "title_en": "Can you protect someone without teaching them they need permission to risk?",
+    "title_zh": "保护一个人，会不会不小心让 Ta 觉得「冒险要先获准」？",
+    "category": "contradiction",
+    "emotion": "love",
+    "depth": 2,
+    "tags": ["care", "freedom"],
+    "follow_ups": [
+      { "en": "Who protected you well — or too much?", "zh": "谁保护得好？谁保护得过头？" }
+    ],
+    "related_topics": ["family", "parenting"]
+  },
+  {
+    "title_en": "Sixty seconds of your thoughts — strangers pick the minute. How do you spend the month before?",
+    "title_zh": "陌生人随机听你想 60 秒——你会怎么过之前那一个月？",
+    "category": "hypothetical_world",
+    "emotion": "anxiety",
+    "depth": 2,
+    "tags": ["privacy", "mind"],
+    "follow_ups": [
+      { "en": "Mean thoughts or scared thoughts — which is worse to expose?", "zh": "被听到「坏念头」还是「怕的念头」，哪个更糟？" }
+    ],
+    "related_topics": ["shame", "honesty"]
+  },
+  {
+    "title_en": "What did you almost become?",
+    "title_zh": "你差点成了谁？",
+    "category": "personal_reflection",
+    "emotion": "nostalgia",
+    "depth": 2,
+    "tags": ["paths not taken"],
+    "follow_ups": [
+      { "en": "Job, city, or version of you?", "zh": "工作、城市，还是某一种你？" }
+    ],
+    "related_topics": ["career", "moving"]
+  },
+  {
+    "title_en": "Why can a crowded room feel lonelier than an empty one?",
+    "title_zh": "为什么满屋人有时比空屋更孤独？",
+    "category": "social_observation",
+    "emotion": "loneliness",
+    "depth": 2,
+    "tags": ["crowds", "belonging"],
+    "follow_ups": [
+      { "en": "The loneliest room you stood in?", "zh": "你待过最孤独的房间是哪种场合？" }
+    ],
+    "related_topics": ["parties", "mental health"]
+  },
+  {
+    "title_en": "Stay when it's hard — or leave before bitterness wins?",
+    "title_zh": "难的时候留下，还是在恨意改写美好之前离开？",
+    "category": "value_conflict",
+    "emotion": "tension",
+    "depth": 3,
+    "tags": ["loyalty", "endings"],
+    "follow_ups": [
+      { "en": "Can an ending still be love?", "zh": "离开还可以是爱吗？" }
+    ],
+    "related_topics": ["relationships", "family"]
+  },
+  {
+    "title_en": "Happiness: a weekend place you visit once a year — keep going back?",
+    "title_zh": "快乐像每年只能去一次的周末胜地——你还会一直去吗？",
+    "category": "philosophy",
+    "emotion": "wonder",
+    "depth": 2,
+    "tags": ["happiness", "ordinary life"],
+    "follow_ups": [
+      { "en": "Would Mondays get harder — or softer?", "zh": "平常的周一会更难还是更温柔？" }
+    ],
+    "related_topics": ["rest", "meaning"]
+  }
+]

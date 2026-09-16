@@ -9,13 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/genai": "^2.0.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
+    "mammoth": "^1.9.0",
     "next": "16.2.6",
     "openai": "^6.37.0",
+    "pdf-parse": "^1.1.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "tailwind-merge": "^3.5.0"
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "rss-parser": "^3.13.0",
+    "tailwind-merge": "^3.5.0",
+    "undici": "^8.2.0",
+    "youtube-transcript": "^1.3.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
