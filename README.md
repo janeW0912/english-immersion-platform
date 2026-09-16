@@ -16,6 +16,21 @@
 
 数据主要存在浏览器 **localStorage**（无需登录，MVP 无数据库）。
 
+
+## 运行截图
+![首页](screenshots/1.HomePage.png)
+
+![表达实验室1](screenshots/2.ExpressionLab1.png)
+![表达实验室2](screenshots/2.ExpressionLab2.png)
+
+![实时输入](screenshots/3.LivingCurrent(待完善).png)
+
+![思维竞技场](screenshots/4.MindArena.png)
+
+![语言直觉](screenshots/5.NativeBrain.png)
+
+![写作工作室](screenshots/6.WritingStudio.png)
+
 ## 本地运行
 
 ```bash
@@ -45,19 +60,6 @@ copy .env.example .env.local
 3. Environment Variables：添加 `GEMINI_API_KEY`；可选 `GEMINI_MODEL`、`OPENAI_API_KEY`。
 4. Deploy，通过 `*.vercel.app` 访问。
 
-## GitHub Pages？
-
-**不适合用 GitHub Pages 部署本仓库。**
-
-| | GitHub Pages | 本项目 |
-|--|--------------|--------|
-| 能力 | 静态文件（HTML/CSS/JS） | Next.js 服务端 + `/api/*` |
-| API / AI | 不支持 | 依赖服务端调用 Gemini 等 |
-| 环境变量 | 无服务端密钥注入 | 需要 `GEMINI_API_KEY` |
-
-若强行 `output: 'export'` 做静态导出，**所有 API 路由都会失效**，表达实验室、教练、沉浸页拉取等核心功能无法工作。请使用 **Vercel**（或同等支持 Next.js 的平台）。
-
-仓库仍可正常托管在 GitHub，用于版本管理与 Vercel 自动部署。
 
 ## 技术栈
 
