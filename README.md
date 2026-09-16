@@ -18,18 +18,18 @@
 
 
 ## 运行截图
-![首页](screenshots/1.HomePage.png)
+![首页](screenshot/0.HomePage.png)
 
-![表达实验室1](screenshots/2.ExpressionLab1.png)
-![表达实验室2](screenshots/2.ExpressionLab2.png)
+![表达实验室1](screenshot/1.ExpressionLab1.png)
+![表达实验室2](screenshot/2.ExpressionLab2.png)
 
-![实时输入](screenshots/3.LivingCurrent(待完善).png)
+![实时输入](screenshot/3.LivingCurrent(待完善).png)
 
-![思维竞技场](screenshots/4.MindArena.png)
+![思维竞技场](screenshot/4.MindArena.png)
 
-![语言直觉](screenshots/5.NativeBrain.png)
+![语言直觉](screenshot/5.NativeBrain.png)
 
-![写作工作室](screenshots/6.WritingStudio.png)
+![写作工作室](screenshot/6.WritingStudio.png)
 
 ## 本地运行
 
